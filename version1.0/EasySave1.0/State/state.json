@@ -1,0 +1,23 @@
+[
+  {
+    "SName": "Test",
+    "SSize": null,
+    "SSource": null,
+    "STarget": null,
+    "STime": null,
+    "SNumberFiles": 0,
+    "SNumberLeft": 0,
+    "TotalSize": 0,
+    "TotalSizeRest": 0,
+    "TotalFile": 0,
+    "FileRest": 0,
+    "Progress": 0.0,
+    "SState": false,
+    "FileName": null,
+    "FileSize": null,
+    "SourceFolder": null,
+    "TargetFolder": null,
+    "DateBackup": "02/01/2022 17:00:08",
+    "SaveTime": null
+  }
+]
