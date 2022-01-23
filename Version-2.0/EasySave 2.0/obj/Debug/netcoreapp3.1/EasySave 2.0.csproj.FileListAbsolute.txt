@@ -1,0 +1,121 @@
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.exe
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.deps.json
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.runtimeconfig.json
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.runtimeconfig.dev.json
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.dll
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.pdb
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0_MarkupCompile.cache
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0_MarkupCompile.lref
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.g.resources
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.AssemblyInfo.cs
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.dll
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.pdb
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.genruntimeconfig.cache
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\NewWork.g.cs
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\NewWork.baml
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\LoadWork.g.cs
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\LoadWork.baml
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\language.g.cs
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\language.baml
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\Extensionfiletocrypt.g.cs
+C:\Users\Utilisateur\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\Extensionfiletocrypt.baml
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.exe
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.deps.json
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.runtimeconfig.json
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.runtimeconfig.dev.json
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.dll
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.pdb
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.csproj.AssemblyReference.cache
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\Extensionfiletocrypt.g.cs
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\language.g.cs
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\LoadWork.g.cs
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\NewWork.g.cs
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\App.g.cs
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0_MarkupCompile.cache
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0_MarkupCompile.lref
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\Extensionfiletocrypt.baml
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\language.baml
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\LoadWork.baml
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\NewWork.baml
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.g.resources
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.AssemblyInfoInputs.cache
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.AssemblyInfo.cs
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.csproj.CoreCompileInputs.cache
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.dll
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.pdb
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.genruntimeconfig.cache
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\CryptoSoftLib.dll
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.csproj.CopyComplete
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.csproj.AssemblyReference.cache
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\Extensionfiletocrypt.g.cs
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\language.g.cs
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\LoadWork.g.cs
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\NewWork.g.cs
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\App.g.cs
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0_MarkupCompile.cache
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0_MarkupCompile.lref
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.dll
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.pdb
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.exe
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.deps.json
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.runtimeconfig.json
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.runtimeconfig.dev.json
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.dll
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.pdb
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\CryptoSoftLib.dll
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\Extensionfiletocrypt.baml
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\language.baml
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\LoadWork.baml
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\NewWork.baml
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.g.resources
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.AssemblyInfoInputs.cache
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.AssemblyInfo.cs
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.csproj.CoreCompileInputs.cache
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.csproj.CopyComplete
+D:\save_utilisateur\Documents\GitHub\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.genruntimeconfig.cache
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.exe
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.deps.json
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.runtimeconfig.json
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.runtimeconfig.dev.json
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.dll
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\EasySave 2.0.pdb
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\CryptoSoftLib.dll
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\Extensionfiletocrypt.g.cs
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\language.g.cs
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\LoadWork.g.cs
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\NewWork.g.cs
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0_MarkupCompile.cache
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0_MarkupCompile.lref
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\Extensionfiletocrypt.baml
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\language.baml
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\LoadWork.baml
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\NewWork.baml
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.g.resources
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.AssemblyInfo.cs
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.csproj.CopyComplete
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.dll
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.pdb
+C:\Users\Utilisateur\Source\Repos\Xelkyo\EasySave\Version-2.0\EasySave 2.0\obj\Debug\netcoreapp3.1\EasySave 2.0.genruntimeconfig.cache
+D:\User\Auri\etude\2021-2022\CESI\Doc\Projets\Projet-2\EasySave\Version-2.0\EasySave 2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

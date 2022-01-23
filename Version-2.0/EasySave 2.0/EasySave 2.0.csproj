@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>EasySave_2._0</RootNamespace>
+    <UseWPF>true</UseWPF>
+    <StartupObject>EasySave_2._0.App</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Fleche_retour.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CryptoSoftLib">
+      <HintPath>..\CryptoSoft\CryptoSoftLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Fleche_retour.png" />
+  </ItemGroup>
+
+</Project>

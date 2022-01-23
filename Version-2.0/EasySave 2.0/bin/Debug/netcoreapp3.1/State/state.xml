@@ -1,0 +1,82 @@
+<root>
+  <Save>
+    <SNumberFiles>0</SNumberFiles>
+    <SNumberLeft>0</SNumberLeft>
+    <TotalSize>1421834375</TotalSize>
+    <TotalSizeRest>209563200</TotalSizeRest>
+    <TotalFile>7</TotalFile>
+    <FileRest>1</FileRest>
+    <Progress>85.26107</Progress>
+    <SState>true</SState>
+    <FileName>Aled</FileName>
+    <FileSize />
+    <SourceFolder>C:\www\Aled\LOURD.txt</SourceFolder>
+    <TargetFolder>C:\www\Aled_Backup\LOURD.txt</TargetFolder>
+    <DateBackup>15/12/2021 17:01:30</DateBackup>
+    <SaveTime />
+  </Save>
+  <Save>
+    <SNumberFiles>0</SNumberFiles>
+    <SNumberLeft>0</SNumberLeft>
+    <TotalSize>169766322</TotalSize>
+    <TotalSizeRest>164455175</TotalSizeRest>
+    <TotalFile>4</TotalFile>
+    <FileRest>1</FileRest>
+    <Progress>3.1285043</Progress>
+    <SState>true</SState>
+    <FileName>SaveWPF</FileName>
+    <FileSize />
+    <SourceFolder>C:\www\WPF\Loop.Hero.v1.105.rar</SourceFolder>
+    <TargetFolder>C:\www\WPF_Backup\Loop.Hero.v1.105.rar</TargetFolder>
+    <DateBackup>15/12/2021 17:01:42</DateBackup>
+    <SaveTime />
+  </Save>
+  <Save>
+    <SNumberFiles>0</SNumberFiles>
+    <SNumberLeft>0</SNumberLeft>
+    <TotalSize>0</TotalSize>
+    <TotalSizeRest>0</TotalSizeRest>
+    <TotalFile>0</TotalFile>
+    <FileRest>0</FileRest>
+    <Progress>0</Progress>
+    <SState>false</SState>
+    <FileName>xdtwrdftgy</FileName>
+    <FileSize />
+    <SourceFolder />
+    <TargetFolder />
+    <DateBackup>15/12/2021 14:36:48</DateBackup>
+    <SaveTime />
+  </Save>
+  <Save>
+    <SNumberFiles>0</SNumberFiles>
+    <SNumberLeft>0</SNumberLeft>
+    <TotalSize>169766322</TotalSize>
+    <TotalSizeRest>164455175</TotalSizeRest>
+    <TotalFile>4</TotalFile>
+    <FileRest>1</FileRest>
+    <Progress>3.1285043</Progress>
+    <SState>true</SState>
+    <FileName>SaveOthmane</FileName>
+    <FileSize />
+    <SourceFolder>C:\www\WPF\Loop.Hero.v1.105.rar</SourceFolder>
+    <TargetFolder>C:\www\WPF_Backup\Loop.Hero.v1.105.rar</TargetFolder>
+    <DateBackup>15/12/2021 15:39:48</DateBackup>
+    <SaveTime />
+  </Save>
+  <Save>
+    <SNumberFiles>0</SNumberFiles>
+    <SNumberLeft>0</SNumberLeft>
+    <TotalSize>169766322</TotalSize>
+    <TotalSizeRest>164455175</TotalSizeRest>
+    <TotalFile>4</TotalFile>
+    <FileRest>1</FileRest>
+    <Progress>3.1285043</Progress>
+    <SState>true</SState>
+    <FileName>Bidoof</FileName>
+    <FileSize />
+    <SourceFolder>C:\www\WPF\Loop.Hero.v1.105.rar</SourceFolder>
+    <TargetFolder>C:\www\WPF_Backup\Loop.Hero.v1.105.rar</TargetFolder>
+    <DateBackup>15/12/2021 16:58:14</DateBackup>
+    <SaveTime />
+  </Save>
+</root>
