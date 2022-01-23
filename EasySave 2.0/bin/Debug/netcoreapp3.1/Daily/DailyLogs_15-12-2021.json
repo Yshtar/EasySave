@@ -1,0 +1,42 @@
+{
+  "DName": "Bidoof",
+  "DSize": 169766322,
+  "DSource": "C:\\www\\WPF",
+  "DTarget": "C:\\www\\WPF_Backup",
+  "DTime": "00:00:06.08",
+  "DTransferTime": null,
+  "FileName": null,
+  "FileSize": null,
+  "SourceFolder": null,
+  "TargetFolder": null,
+  "DateBackup": "15/12/2021 16:58:14",
+  "SaveTime": null
+}
+{
+  "DName": "Aled",
+  "DSize": 1421834375,
+  "DSource": "C:\\www\\Aled",
+  "DTarget": "C:\\www\\Aled_Backup",
+  "DTime": "00:00:10.52",
+  "DTransferTime": null,
+  "FileName": null,
+  "FileSize": null,
+  "SourceFolder": null,
+  "TargetFolder": null,
+  "DateBackup": "15/12/2021 17:01:30",
+  "SaveTime": null
+}
+{
+  "DName": "SaveWPF",
+  "DSize": 169766322,
+  "DSource": "C:\\www\\WPF",
+  "DTarget": "C:\\www\\WPF_Backup",
+  "DTime": "00:00:06.01",
+  "DTransferTime": null,
+  "FileName": null,
+  "FileSize": null,
+  "SourceFolder": null,
+  "TargetFolder": null,
+  "DateBackup": "15/12/2021 17:01:42",
+  "SaveTime": null
+}

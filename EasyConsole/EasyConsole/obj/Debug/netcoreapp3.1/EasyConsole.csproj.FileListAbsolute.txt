@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\source\repos\Xelkyo\EasySave\Version-3.0\EasyConsole\EasyConsole\bin\Debug\netcoreapp3.1\EasyConsole.exe
+C:\Users\Utilisateur\source\repos\Xelkyo\EasySave\Version-3.0\EasyConsole\EasyConsole\bin\Debug\netcoreapp3.1\EasyConsole.deps.json
+C:\Users\Utilisateur\source\repos\Xelkyo\EasySave\Version-3.0\EasyConsole\EasyConsole\bin\Debug\netcoreapp3.1\EasyConsole.runtimeconfig.json
+C:\Users\Utilisateur\source\repos\Xelkyo\EasySave\Version-3.0\EasyConsole\EasyConsole\bin\Debug\netcoreapp3.1\EasyConsole.runtimeconfig.dev.json
+C:\Users\Utilisateur\source\repos\Xelkyo\EasySave\Version-3.0\EasyConsole\EasyConsole\bin\Debug\netcoreapp3.1\EasyConsole.dll
+C:\Users\Utilisateur\source\repos\Xelkyo\EasySave\Version-3.0\EasyConsole\EasyConsole\bin\Debug\netcoreapp3.1\EasyConsole.pdb
+C:\Users\Utilisateur\source\repos\Xelkyo\EasySave\Version-3.0\EasyConsole\EasyConsole\obj\Debug\netcoreapp3.1\EasyConsole.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\source\repos\Xelkyo\EasySave\Version-3.0\EasyConsole\EasyConsole\obj\Debug\netcoreapp3.1\EasyConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\source\repos\Xelkyo\EasySave\Version-3.0\EasyConsole\EasyConsole\obj\Debug\netcoreapp3.1\EasyConsole.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\source\repos\Xelkyo\EasySave\Version-3.0\EasyConsole\EasyConsole\obj\Debug\netcoreapp3.1\EasyConsole.AssemblyInfo.cs
+C:\Users\Utilisateur\source\repos\Xelkyo\EasySave\Version-3.0\EasyConsole\EasyConsole\obj\Debug\netcoreapp3.1\EasyConsole.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\source\repos\Xelkyo\EasySave\Version-3.0\EasyConsole\EasyConsole\obj\Debug\netcoreapp3.1\EasyConsole.dll
+C:\Users\Utilisateur\source\repos\Xelkyo\EasySave\Version-3.0\EasyConsole\EasyConsole\obj\Debug\netcoreapp3.1\EasyConsole.pdb
+C:\Users\Utilisateur\source\repos\Xelkyo\EasySave\Version-3.0\EasyConsole\EasyConsole\obj\Debug\netcoreapp3.1\EasyConsole.genruntimeconfig.cache

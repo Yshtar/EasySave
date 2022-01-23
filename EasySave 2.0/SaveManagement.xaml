@@ -1,0 +1,183 @@
+﻿<Window x:Class="EasySave.ViewModel.SaveManagement"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EasySave.ViewModel"
+        mc:Ignorable="d"
+        Title="SaveManagement" Height="500" Width="900" WindowStartupLocation="CenterScreen" >
+    <Grid>
+        <Button x:Name="return1" Content="" HorizontalAlignment="Right" Height="36" Margin="0,0,32,22" VerticalAlignment="Bottom" Width="38" BorderBrush="White" RenderTransformOrigin="1.992,0.539" Click="backmenu">
+            <Button.Background>
+                <ImageBrush ImageSource="/Fleche_retour.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Play" Content="" HorizontalAlignment="Right" Height="36" Margin="0,110,300,0" VerticalAlignment="Top" Width="38" BorderBrush="White" RenderTransformOrigin="1.992,0.539" Click="Play_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/Play.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Pause" Content="" HorizontalAlignment="Right" Height="36" Margin="0,110,250,0" VerticalAlignment="Top" Width="38" BorderBrush="White" RenderTransformOrigin="1.992,0.539" Click="Pause_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/Pause.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Stop" Content="" HorizontalAlignment="Right" Height="36" Margin="0,110,200,0" VerticalAlignment="Top" Width="38" BorderBrush="White" RenderTransformOrigin="1.992,0.539" Click="Stop_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/Stop.png"/>
+            </Button.Background>
+        </Button>
+        <Rectangle HorizontalAlignment="Right" Height="210" Margin="0,36,0,0" Stroke="#FF5B88D9" VerticalAlignment="Top" Width="50" Fill="#FF5B88D9"/>
+        <Rectangle HorizontalAlignment="Right" Height="50" Stroke="#FF5B88D9" VerticalAlignment="Top" Width="278" Fill="#FF5B88D9"/>
+        <Rectangle HorizontalAlignment="Left" Height="138" Margin="-7,0,0,0" Stroke="Black" VerticalAlignment="Bottom" Width="35" Fill="Black"/>
+        <Rectangle HorizontalAlignment="Left" Height="36" Margin="10,0,0,0" Stroke="Black" VerticalAlignment="Bottom" Width="130" Fill="Black"/>
+        <Label Name="Label1" Content="" HorizontalAlignment="Left" Height="74" Margin="10,33,0,0" VerticalAlignment="Top" Width="526" FontWeight="Bold" FontSize="20"/>
+        <Button x:Name="Play_Copy" Content="" HorizontalAlignment="Right" Height="36" Margin="0,160,300,0" VerticalAlignment="Top" Width="38" BorderBrush="White" RenderTransformOrigin="1.992,0.539" Click="Play_Click1">
+            <Button.Background>
+                <ImageBrush ImageSource="/Play.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Pause_Copy" Content="" HorizontalAlignment="Right" Height="36" Margin="0,160,250,0" VerticalAlignment="Top" Width="38" BorderBrush="White" RenderTransformOrigin="1.992,0.539" Click="Pause_Click2">
+            <Button.Background>
+                <ImageBrush ImageSource="/Pause.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Stop_Copy" Content="" HorizontalAlignment="Right" Height="36" Margin="0,160,200,0" VerticalAlignment="Top" Width="38" BorderBrush="White" RenderTransformOrigin="1.992,0.539" Click="Stop_Click2">
+            <Button.Background>
+                <ImageBrush ImageSource="/Stop.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Play_Copy1" Content="" HorizontalAlignment="Right" Height="36" Margin="0,210,300,0" VerticalAlignment="Top" Width="38" BorderBrush="White" RenderTransformOrigin="1.992,0.539" Click="Play_Click2">
+            <Button.Background>
+                <ImageBrush ImageSource="/Play.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Pause_Copy1" Content="" HorizontalAlignment="Right" Height="36" Margin="0,210,250,0" VerticalAlignment="Top" Width="38" BorderBrush="White" RenderTransformOrigin="1.992,0.539" Click="Pause_Click3">
+            <Button.Background>
+                <ImageBrush ImageSource="/Pause.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Stop_Copy1" Content="" HorizontalAlignment="Right" Height="36" Margin="0,210,200,0" VerticalAlignment="Top" Width="38" BorderBrush="White" RenderTransformOrigin="1.992,0.539" Click="Stop_Click3">
+            <Button.Background>
+                <ImageBrush ImageSource="/Stop.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Play_Copy2" Content="" HorizontalAlignment="Right" Height="36" Margin="0,260,300,0" VerticalAlignment="Top" Width="38" BorderBrush="White" RenderTransformOrigin="1.992,0.539" Click="Play_Click3">
+            <Button.Background>
+                <ImageBrush ImageSource="/Play.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Pause_Copy2" Content="" HorizontalAlignment="Right" Height="36" Margin="0,260,250,0" VerticalAlignment="Top" Width="38" BorderBrush="White" RenderTransformOrigin="1.992,0.539" Click="Pause_Click4">
+            <Button.Background>
+                <ImageBrush ImageSource="/Pause.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Stop_Copy2" Content="" HorizontalAlignment="Right" Height="36" Margin="0,260,200,0" VerticalAlignment="Top" Width="38" BorderBrush="White" RenderTransformOrigin="1.992,0.539" Click="Stop_Click4">
+            <Button.Background>
+                <ImageBrush ImageSource="/Stop.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Play_Copy3" Content="" HorizontalAlignment="Right" Height="36" Margin="0,310,300,0" VerticalAlignment="Top" Width="38" BorderBrush="White" RenderTransformOrigin="1.992,0.539" Click="Play_Click4">
+            <Button.Background>
+                <ImageBrush ImageSource="/Play.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Pause_Copy3" Content="" HorizontalAlignment="Right" Height="36" Margin="0,310,250,0" VerticalAlignment="Top" Width="38" BorderBrush="White" RenderTransformOrigin="1.992,0.539" Click="Pause_Click5">
+            <Button.Background>
+                <ImageBrush ImageSource="/Pause.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Stop_Copy3" Content="" HorizontalAlignment="Right" Height="36" Margin="0,310,200,0" VerticalAlignment="Top" Width="38" BorderBrush="White" RenderTransformOrigin="1.992,0.539" Click="Stop_Click5">
+            <Button.Background>
+                <ImageBrush ImageSource="/Stop.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Play_Copy4" Content="" HorizontalAlignment="Right" Height="36" Margin="0,360,300,0" VerticalAlignment="Top" Width="38" BorderBrush="White" RenderTransformOrigin="1.992,0.539" Click="Play_Click5">
+            <Button.Background>
+                <ImageBrush ImageSource="/Play.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Pause_Copy4" Content="" HorizontalAlignment="Right" Height="36" Margin="0,360,250,0" VerticalAlignment="Top" Width="38" BorderBrush="White" RenderTransformOrigin="1.992,0.539" Click="Pause_Click6">
+            <Button.Background>
+                <ImageBrush ImageSource="/Pause.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Stop_Copy4" Content="" HorizontalAlignment="Right" Height="36" Margin="0,360,200,0" VerticalAlignment="Top" Width="38" BorderBrush="White" RenderTransformOrigin="1.992,0.539" Click="Stop_Click6">
+            <Button.Background>
+                <ImageBrush ImageSource="/Stop.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="Lancer" HorizontalAlignment="Right" Height="36" Margin="0,110,60,0" VerticalAlignment="Top" Width="108" Click="Lancer1_Click"/>
+        <Button Content="Lancer" HorizontalAlignment="Right" Height="36" Margin="0,160,60,0" VerticalAlignment="Top" Width="108" Click="Lancer2_Click"/>
+        <Button Content="Lancer" HorizontalAlignment="Right" Height="36" Margin="0,210,60,0" VerticalAlignment="Top" Width="108" Click="Lancer3_Click"/>
+        <Button Content="Lancer" HorizontalAlignment="Right" Height="36" Margin="0,260,60,0" VerticalAlignment="Top" Width="108" Click="Lancer4_Click"/>
+        <Button Content="Lancer" HorizontalAlignment="Right" Height="36" Margin="0,310,60,0" VerticalAlignment="Top" Width="108" Click="Lancer5_Click"/>
+        <Button Content="Lancer" HorizontalAlignment="Right" Height="36" Margin="0,360,60,0" VerticalAlignment="Top" Width="108" Click="Lancer6_Click"/>
+        <StackPanel Margin="35,110,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="33" Width="201">
+            <ComboBox Name="Save1" HorizontalAlignment="Left" Height="33" Width="201">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Margin="35,160,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="33" Width="201">
+            <ComboBox Name="Save2" HorizontalAlignment="Left" Height="33" Width="201">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Margin="35,210,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="33" Width="201">
+            <ComboBox Name="Save3" HorizontalAlignment="Left" Height="33" Width="201">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Margin="35,260,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="33" Width="201">
+            <ComboBox Name="Save4" HorizontalAlignment="Left" Height="33" Width="201">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Margin="35,315,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="33" Width="201">
+            <ComboBox Name="Save5" HorizontalAlignment="Left" Height="33" Width="201">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Margin="35,360,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="33" Width="201">
+            <ComboBox Name="Save6" HorizontalAlignment="Left" Height="33" Width="201">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+    </Grid>
+</Window>
