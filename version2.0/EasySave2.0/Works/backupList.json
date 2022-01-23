@@ -1,0 +1,23 @@
+[
+  {
+    "TargetFolder": "C:\\www\\Aled_Backup",
+    "Mirror": "",
+    "SourceFolder": "C:\\www\\Aled",
+    "FileName": "Aled",
+    "Type": 0
+  },
+  {
+    "TargetFolder": "C:\\www\\WPF_Backup",
+    "Mirror": "",
+    "SourceFolder": "C:\\www\\WPF",
+    "FileName": "SaveWPF",
+    "Type": 0
+  },
+  {
+    "TargetFolder": "C:\\www\\WPF_Backup",
+    "Mirror": "",
+    "SourceFolder": "C:\\www\\WPF",
+    "FileName": "Bidoof",
+    "Type": 0
+  }
+]
