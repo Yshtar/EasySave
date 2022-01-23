@@ -1,4 +1,4 @@
-﻿EasySave 2.0
+﻿EasySave 2.0_pjlyru1q_wpftmp
 
 
 winexe
@@ -12,9 +12,9 @@ TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\Utilisateur\Source\Repos\Yshtar\EasySave\EasySave3.0\EasySave 2.0\App.xaml
 61405296832
 
-161687924503
-194-898743047
+23-112629404
+387-1935024016
 Extensionfiletocrypt.xaml;language.xaml;LoadWork.xaml;MainWindow.xaml;NewWork.xaml;SaveManagement.xaml;
 
-False
+True
 

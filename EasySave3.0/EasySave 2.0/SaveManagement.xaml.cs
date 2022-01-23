@@ -204,36 +204,42 @@ namespace EasySave.ViewModel
         {
             LoadName = Save1.Text;
             t = new Thread(() => model.LoadSave(LoadName));
+            t.Start();
         }
         private void Lancer2_Click(object sender, RoutedEventArgs e)
         {
             LoadName = Save2.Text;
 
             u = new Thread(() => model.LoadSave(LoadName));
+            u.Start();
         }
         private void Lancer3_Click(object sender, RoutedEventArgs e)
         {
             LoadName = Save3.Text;
 
             v = new Thread(() => model.LoadSave(LoadName));
+            v.Start();
         }
         private void Lancer4_Click(object sender, RoutedEventArgs e)
         {
             LoadName = Save4.Text;
 
             w = new Thread(() => model.LoadSave(LoadName));
+            w.Start();
         }
         private void Lancer5_Click(object sender, RoutedEventArgs e)
         {
             LoadName = Save5.Text;
 
             x = new Thread(() => model.LoadSave(LoadName));
+            x.Start();
         }
         private void Lancer6_Click(object sender, RoutedEventArgs e)
         {
             LoadName = Save6.Text;
 
             y = new Thread(() => model.LoadSave(LoadName));
+            y.Start();
         }
 
         private void Wait()

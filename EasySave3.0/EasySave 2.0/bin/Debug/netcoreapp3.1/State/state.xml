@@ -322,4 +322,21 @@
     <SaveTime />
     <CryptTime>0</CryptTime>
   </Save>
+  <Save>
+    <SNumberFiles>0</SNumberFiles>
+    <SNumberLeft>0</SNumberLeft>
+    <TotalSize>5311198</TotalSize>
+    <TotalSizeRest>4515955</TotalSizeRest>
+    <TotalFile>4</TotalFile>
+    <FileRest>1</FileRest>
+    <Progress>14.972949</Progress>
+    <SState>true</SState>
+    <FileName>TEST</FileName>
+    <FileSize />
+    <SourceFolder>C:\www\WPF\ISEENOGODUPHERE.png</SourceFolder>
+    <TargetFolder>C:\www\WPF_Backup\ISEENOGODUPHERE.png</TargetFolder>
+    <DateBackup>23/01/2022 20:59:02</DateBackup>
+    <SaveTime />
+    <CryptTime>3</CryptTime>
+  </Save>
 </root>

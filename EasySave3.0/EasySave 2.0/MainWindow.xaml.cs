@@ -25,20 +25,37 @@ namespace EasySave.ViewModel
 
         public MainWindow()
         {
-
+            if (mutex.WaitOne(TimeSpan.Zero, true))
+            {
                 InitializeComponent();
                 model = new Modelisation();
                 Thread ServerThread = new Thread(StartServer);
                 ServerThread.Start();
-      
+                mutex.ReleaseMutex();
+
+            }
+            else
+            {
+                MessageBox.Show("Instance already running");
+                Environment.Exit(0);
+                return;
+            }
         }
 
         public MainWindow(string lang)
         {
+            if (mutex.WaitOne(TimeSpan.Zero, true))
+            {
                 InitializeComponent();
                 LanguageSwitch(lang);
                 langmain = lang;
-           
+            }
+            else
+            {
+                MessageBox.Show("Instance already running");
+                Environment.Exit(0);
+                return;
+            }
         }
 
         public void LanguageSwitch(string lang)

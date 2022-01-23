@@ -321,5 +321,22 @@
     "DateBackup": "22/01/2022 16:49:43",
     "SaveTime": null,
     "CryptTime": 0
+  },
+  {
+    "SNumberFiles": 0,
+    "SNumberLeft": 0,
+    "TotalSize": 5311198,
+    "TotalSizeRest": 4515955,
+    "TotalFile": 4,
+    "FileRest": 1,
+    "Progress": 14.972949,
+    "SState": true,
+    "FileName": "TEST",
+    "FileSize": null,
+    "SourceFolder": "C:\\www\\WPF\\ISEENOGODUPHERE.png",
+    "TargetFolder": "C:\\www\\WPF_Backup\\ISEENOGODUPHERE.png",
+    "DateBackup": "23/01/2022 20:59:02",
+    "SaveTime": null,
+    "CryptTime": 3
   }
 ]

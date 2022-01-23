@@ -50,9 +50,7 @@ namespace EasySave.ViewModel
 
              model.LoadSave(LoadName);
 
-            MainWindow main = new MainWindow(langLoad);
-            main.Show();
-            this.Close();
+            SaveName.Text = "";
         }
 
         private void Back_Click(object sender, RoutedEventArgs e)

@@ -9,10 +9,12 @@ using System.Threading;
 using System.Xml;
 using EasySave.ViewModel;
 using CryptoSoftLib;
+using System.Runtime.InteropServices;
+using Microsoft.Win32.SafeHandles;
 
 namespace EasySave.Model
 {
-    class Modelisation
+    class Modelisation : IDisposable
     {
         //Declaration of all variables and properties
         public int checkdatabackup;
@@ -46,7 +48,9 @@ namespace EasySave.Model
         public string MirrorDir { get; set; }
         public object JsonConvert { get; private set; }
 
-
+        bool disposed = false;
+        // Instantiate a SafeHandle instance.
+        SafeHandle handle = new SafeFileHandle(IntPtr.Zero, true);
         public int uppersize = 0;
         static private Extensionfiletocrypt extension;
         CryptoLib crypto = new CryptoLib();
@@ -448,6 +452,7 @@ namespace EasySave.Model
             var t = new Thread(() => CompleteSave(backup.SourceFolder, backup.TargetFolder, true, false)); //Calling the function to run the full backup
             t.Start();
             UpdateLogFile(backup.FileName, backup.SourceFolder, backup.TargetFolder); //Call of the function to start the modifications of the log file
+            Dispose();
         }
 
         public void CheckDataFile()  // Function that allows to count the number of backups in the json file of backup jobs
@@ -484,6 +489,31 @@ namespace EasySave.Model
 
             return names;
 
+
+        }
+
+        public void Dispose()
+        {
+            Dispose(disposing: true);
+            GC.SuppressFinalize(this);
+        }
+
+        // Protected implementation of Dispose pattern.
+        protected virtual void Dispose(bool disposing)
+        {
+            if (disposed)
+                return;
+
+            if (disposing)
+            {
+                handle.Dispose();
+                // Free any other managed objects here.
+                //
+            }
+
+            File = null;
+
+            disposed = true;
         }
 
     }
