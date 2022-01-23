@@ -185,7 +185,7 @@ namespace EasySave.Model
                 nbfiles++;
                 size += file.Length;
 
-            }
+            }s
             
 
             while(c < TabPrio.Length) 
