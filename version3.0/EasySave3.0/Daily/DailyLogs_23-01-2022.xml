@@ -1,0 +1,17 @@
+<root>
+  <Save>
+    <DName>TEST</DName>
+    <DSize>0</DSize>
+    <DSource>C:\www\WPF</DSource>
+    <DTarget>C:\www\WPF_Backup</DTarget>
+    <DTime>00:00:00.00</DTime>
+    <DTransferTime />
+    <FileName />
+    <FileSize />
+    <SourceFolder />
+    <TargetFolder />
+    <DateBackup>23/01/2022 21:13:47</DateBackup>
+    <SaveTime />
+    <CryptTime>0</CryptTime>
+  </Save>
+</root>

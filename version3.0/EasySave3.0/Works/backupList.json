@@ -1,0 +1,51 @@
+[
+  {
+    "TargetFolder": "C:\\www\\Aled_Backup",
+    "Mirror": "",
+    "SourceFolder": "C:\\www\\Aled",
+    "FileName": "Aled",
+    "Type": 0
+  },
+  {
+    "TargetFolder": "C:\\www\\WPF_Backup",
+    "Mirror": "",
+    "SourceFolder": "C:\\www\\WPF",
+    "FileName": "BIDOOF",
+    "Type": 0
+  },
+  {
+    "TargetFolder": "C:\\www\\WPF_Backup",
+    "Mirror": "",
+    "SourceFolder": "C:\\www\\WPF",
+    "FileName": "GODISHERE",
+    "Type": 0
+  },
+  {
+    "TargetFolder": "C:\\www\\Aled_Backup",
+    "Mirror": "",
+    "SourceFolder": "C:\\www\\Aled",
+    "FileName": "Aled",
+    "Type": 0
+  },
+  {
+    "TargetFolder": "D:\\User\\Auri\\etude\\2021-2022\\CESI\\Doc\\Projets\\Projet-2\\TestCrypto\\",
+    "Mirror": "",
+    "SourceFolder": "D:\\User\\Auri\\etude\\2021-2022\\CESI\\Doc\\Projets\\Projet-2\\Test\\",
+    "FileName": "test1",
+    "Type": 0
+  },
+  {
+    "TargetFolder": "D:\\User\\Auri\\etude\\2021-2022\\CESI\\Doc\\Projets\\Projet-2\\TestCrypto\\",
+    "Mirror": "",
+    "SourceFolder": "D:\\User\\Auri\\etude\\2021-2022\\CESI\\Doc\\Projets\\Projet-2\\test2\\",
+    "FileName": "test2",
+    "Type": 0
+  },
+  {
+    "TargetFolder": "C:\\www\\WPF_Backup",
+    "Mirror": "",
+    "SourceFolder": "C:\\www\\WPF",
+    "FileName": "TEST",
+    "Type": 0
+  }
+]
